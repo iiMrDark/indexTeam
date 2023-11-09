@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Hacked By ./Mr.Dark | CyberDarkCrew</title>
+        <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Permanent+Marker&display=swap" rel="stylesheet"> 
+        <meta name="description" content="Remember !!, there is no perfect security in this world. Greetings Mr.Dark - CyberDarkCrew"/>
+        <meta name="robots" content="index, follow">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="language" content="English">
+        <meta name="revisit-after" content="900 days">
+        <meta name="author" content="./Mr.Dark">
+        <link rel="shortcut icon" href="https://github.com/iiMrDark/indexTeam/blob/main/cyberdark.png?raw=true" type="image/x-icon">
+        <style>
+            *{
+                position: relative;
+                margin: 0px;
+                padding: 0px;
+                box-sizing: border-box;
+                
+            }
+            main{
+                width: 100%;
+                height: 100%;
+            }
+            video{
+                position: fixed;
+                object-fit: cover;
+            }
+            #vid {
+                filter: brightness(0.5);
+            }
+            .content{
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                z-index: 9;
+                font-family: 'Permanent Marker', cursive;
+                color: rgb(78, 255, 93);
+                display: flex;
+                align-items: center;
+                padding-top: 2rem;
+                flex-direction: column;
+                text-align: center;
+                padding-bottom: 5rem;
+
+            }
+            .content h1{
+                padding-top: 1rem;
+                font-size: 60px;
+                font-weight: bold;
+            }
+            .content img{
+                padding-top: 2rem;
+                width: 300px;
+            }
+            .content h6{
+                font-family: 'Kdam Thmor Pro', sans-serif;
+                padding-top: 2rem;
+                font-size: 25px;
+                max-width: 70%;
+            }
+            #clickonpage{
+                color: rgb(152, 152, 255);
+            }
+            #follow{
+                padding: 20px 0px;
+                font-size: 25px;
+            }
+            #follow a{
+                margin-left: 10px;
+                color: rgb(255, 125, 125);
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        <main>
+            <div class="content">
+                <h1 id="clickonpage">Click on page</h1>
+                <div>
+                    <!-- <img src="https://cdnimgen.royanews.tv/imageserv/Size728Q100/news/20231008/45068.JPG" alt="abu obaida"> -->
+                    <img src="https://github.com/iiMrDark/indexTeam/blob/main/cyberdark.png?raw=true" alt="abu obaida">
+                </div>
+                <h1>Hacked By <b style="color:red">./Mr.Dark</b></h1>
+                <h6>This site has been hacked by <b style="color:red">./Mr.Dark</b>, don't worry your files and databses have been deleted, while you mourn your fucking site, there are hundreds of people and children in <b style="color:greenyellow">Gaza</b> being killed now.</h6>
+                <br>
+                <br>
+                <h6><b style="color:red">Trust me</b>, this is the beginning and next will be different, <b style="color:red">#FreePalestine #EgyptiaonHackers</b></h6>
+                <div id="follow">
+                    <label>Greetz: </label>
+                    <a target="_blank" href="https://t.me/cy_code">CY_code</a>
+                    <a target="_blank" href="https://t.me/S1DERS">S1DERS</a>
+                    <a target="_blank" href="https://t.me/iiLinux">iiLinux</a>
+                </div>
+            </div>
+            <video id="vid" width="100%" height="100%" autoplay muted onloadeddata="this.play();" loop>
+                <source src="https://raw.githubusercontent.com/iiMrDark/indexTeam/main/gaza.mp4" type="video/mp4">
+            </video>
+            <audio id="myAudio" hidden autoplay="true" volume="0.5">
+                <source src="https://github.com/iiMrDark/indexTeam/raw/main/Eminem%20-%20Mockingbird%20%5BOfficial%20Music%20Video%5D%20%5BTubeRipper.com%5D.m4a" type="audio/mpeg">
+            </audio>
+        </main>
+    </body>
+    <script>
+        let vid = document.getElementById("vid");
+        vid.play();
+        vid.autoplay = true;
+
+        var audio = document.getElementById("myAudio");
+        window.onclick=function(){
+            if(audio.volume != 0.2 && audio.currentTime != 10){
+                window.clickonpage.remove();
+                audio.volume = 0.2;
+                audio.currentTime = 10;
+            }
+            audio.play();
+        }
+    </script>
+</html>
