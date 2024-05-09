@@ -1,0 +1,70 @@
+
+<html>
+<head>
+    <title>Hacked By ./MrDark - AnubisTeam</title>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="description" content="Remember !!, there is no perfect security in this world. Greetings ./MrDark - AnubisTeam"/>
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="English">
+    <meta name="revisit-after" content="900 days">
+    <meta name="author" content="./MrDark">
+    <meta name="theme-color" content="#000">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <link rel="shortcut icon" type="image/x-icon" href="https://github.com/iiMrDark/indexTeam/blob/main/img/anubis.png?raw=true" />
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Martian+Mono:wght@300&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,300&display=swap" rel="stylesheet">
+    <style>
+        body{
+            overflow-x: hidden;
+        }
+        #backgorund{
+            position: absolute;
+            width: 100%;
+            height: 500px;
+            z-index: -1;
+            background: url("https://github.com/iiMrDark/indexTeam/blob/main/img/1200px-Flag_of_Palestine.svg.png?raw=true");
+            background-position: center;
+            background-size: 350px;
+            filter: blur(5px);
+            -webkit-filter: blur(5px);
+            background-repeat: no-repeat;
+        }
+    </style>
+</head>
+<body bgcolor=black onclick="play()">
+<div id="backgorund"></div>
+<div class="content" style="top: 0;left: 0;right: 0;bottom: 0;height: 50%;margin: auto;position: absolute;"/>
+<center>
+    <img src="https://github.com/iiMrDark/indexTeam/blob/main/img/wallpaperbetter-com-7680x4320-removebg-preview-1.png?raw=true" alt="./MrDark" style="width:400px"><br/><br/><br/>
+    <font face="Martian Mono" color="white">
+        <h3>
+            Hacked by <font color="red">././MrDark</font>
+        </h3>
+    </font>
+    <p style="color:white;font-size:13px;font-family:Roboto Condensed;padding: 0px 15px;">
+        <b>
+            your server has been Hacked by <b style="color:red;">AnubisTeam</b> , dont worry admin your <b style="color:#00ff00;">databases is safe</b>, nothing deleted just added this index to your site , patch your system otherwise we will be back soon! We have nothing to do with terrorism , <b style="color:#ff0000;">hacking is art</b>.
+        </b>
+    </p>
+    <font size="2px" face="Martian Mono" color="red">
+        <b>AnubisTeam | #Free_Palestine
+    </font></b></br><br>
+    <font face="Courier New" size="3" color="white">[ Egyptian Hackers > ]</font></br></br>
+    <audio id="sec" __idm_id__="823202817">
+        <source src="https://c.top4top.io/m_2560fdk830.mp3" type="audio/mpeg">
+    </audio>
+    <a href="https://t.me/cy_code" target="_blank"><img width="25px" src="https://github.com/iiMrDark/indexTeam/blob/main/img/800px-Telegram_2019_Logo.svg.png?raw=true" alt=""></a>
+</center>
+</div>
+</body>
+<script>
+    var x = document.getElementById("sec");
+    function play() {
+        x.play();
+    }
+</script>
+</html>
